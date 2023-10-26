@@ -4,7 +4,6 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-
 .weather {
   background: rgb(13, 218, 202);
   background: linear-gradient(
@@ -42,7 +41,6 @@
 .search-bar > input:focus {
   outline: 2px solid rgb(65, 76, 126);
 }
-
 .search-bar button {
   border: none;
   outline: none;
@@ -79,9 +77,10 @@
 .row {
   display: flex;
   justify-content: space-around;
-  padding: 1em 3em 4em 3em;
+  gap: 1em;
+  width: 100%;
+  margin-top: 1em;
 }
-
 .col .bi {
   font-size: 1.2em;
   font-style: normal;
