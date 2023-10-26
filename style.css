@@ -66,22 +66,25 @@
 .weather-info i {
   font-size: 5em;
   color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.212);
 }
 .weather-info p {
   font-size: 36px;
   color: rgb(255, 255, 255);
+  text-shadow: 1 1px 4px rgba(0, 0, 0, 0.705);
 }
 .row {
   display: flex;
   justify-content: space-around;
 }
-.col {
-  margin-top: 1em;
+.row {
+  margin-top: 2em;
+  padding: 0 1em;
 }
 .col .bi {
   font-size: 1em;
   font-style: normal;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.301);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.705);
 }
 .bi-wind {
   margin-top: 15px;
