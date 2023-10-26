@@ -14,4 +14,8 @@ For those that would like to visit the Live Demo of this App you can visit it he
 
 Live Demo Link: https://frogerall.github.io/weather-api/
 
+Another big thanks for this article it helps me a lot on how to hide the Api Keys heres the link
+
+Article Link: https://gist.github.com/derzorngottes/3b57edc1f996dddcab25
+
 That's all Thanks!
