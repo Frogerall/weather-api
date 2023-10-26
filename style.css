@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .weather {
@@ -12,20 +12,24 @@
     rgba(13, 218, 202, 1) 37%,
     rgba(0, 48, 255, 1) 100%
   );
-  height: 500px;
   margin: 5em auto;
   width: 50%;
   border-radius: 25px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
+  padding: 3em;
+}
+.weather h1 {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.151);
 }
 .search-bar {
   display: flex;
-  width: 100%;
   justify-content: center;
-  gap: 0.7em;
+  gap: 0.5em;
+  padding-top: 1em;
 }
 .search-bar > input {
   border: none;
@@ -36,14 +40,14 @@
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.301);
 }
 .search-bar > input:focus {
-  outline: 2px solid rgb(3, 49, 255);
+  outline: 2px solid rgb(65, 76, 126);
 }
 
 .search-bar button {
   border: none;
   outline: none;
   border-radius: 50%;
-  padding: 0 10px;
+  width: 38px;
   cursor: pointer;
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.301);
   transition: all 0.3s;
@@ -57,7 +61,6 @@
   color: white;
 }
 .weather-info {
-  margin-top: 15px;
   width: 100%;
   text-align: center;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.301);
@@ -76,13 +79,11 @@
 .row {
   display: flex;
   justify-content: space-around;
+  padding: 1em 3em 4em 3em;
 }
-.row {
-  margin-top: 2em;
-  padding: 0 1em;
-}
+
 .col .bi {
-  font-size: 1em;
+  font-size: 1.2em;
   font-style: normal;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.705);
 }
