@@ -95,3 +95,17 @@
   color: red;
   margin-top: 1em;
 }
+@media (max-width: 600px) {
+  .weather {
+    width: 90%;
+  }
+  h1 {
+    font-size: 25px;
+  }
+  i {
+    font-size: 18px;
+  }
+  .row {
+    flex-direction: column;
+  }
+}
