@@ -4,6 +4,47 @@
 
 This small web application, developed using HTML, CSS, and JavaScript, leverages the OpenWeather API to provide real-time weather information. Users can access accurate and up-to-date weather data seamlessly.
 
+### Key Features
+
+- **Temperature Display:**
+
+  - Instantly view the current temperature of any city.
+
+- **Additional Key Features:**
+
+  - **Humidity:**
+
+    - Display the current humidity level (e.g., Humidity: 69%).
+
+  - **Wind Speed:**
+
+    - Provide information on the current wind speed (e.g., Wind Speed: 2.93 km/h).
+
+  - **Feels Like:**
+
+    - Indicate the perceived temperature, often accounting for factors like humidity and wind (e.g., Feels like: 29°C).
+
+  - **Sunset Time:**
+    - Show the time of sunset with the date (e.g., Sunset: 6:51 pm 11/11/2023).
+
+- **Basic API Details:**
+  - Access essential API details to understand the source of weather information.
+
+### How to Use
+
+1. Enter the desired city name in the search bar.
+2. Get immediate access to the current temperature and basic API details for the specified location.
+
+### Screenshots
+
+![WeatherNow Screenshot 1](app-screenshot.jpeg)
+
+WeatherNow is designed for simplicity, providing a hassle-free experience for users who prioritize quick weather updates. Whether you're planning a trip or just checking the current weather, WeatherNow keeps it simple and to the point.
+
+Feel the temperature, stay informed, and enjoy the straightforward experience with WeatherNow.
+
+---
+
 ### Technologies Used
 
 - HTML
