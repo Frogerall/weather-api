@@ -1,6 +1,14 @@
 # Weather API App
 
+### Screenshots
+
+![WeatherNow Screenshot 1](app-screenshot.jpeg)
+
 ## Overview
+
+WeatherNow is designed for simplicity, providing a hassle-free experience for users who prioritize quick weather updates. Whether you're planning a trip or just checking the current weather, WeatherNow keeps it simple and to the point.
+
+Feel the temperature, stay informed, and enjoy the straightforward experience with WeatherNow.
 
 This small web application, developed using HTML, CSS, and JavaScript, leverages the OpenWeather API to provide real-time weather information. Users can access accurate and up-to-date weather data seamlessly.
 
@@ -34,14 +42,6 @@ This small web application, developed using HTML, CSS, and JavaScript, leverages
 
 1. Enter the desired city name in the search bar.
 2. Get immediate access to the current temperature and basic API details for the specified location.
-
-### Screenshots
-
-![WeatherNow Screenshot 1](app-screenshot.jpeg)
-
-WeatherNow is designed for simplicity, providing a hassle-free experience for users who prioritize quick weather updates. Whether you're planning a trip or just checking the current weather, WeatherNow keeps it simple and to the point.
-
-Feel the temperature, stay informed, and enjoy the straightforward experience with WeatherNow.
 
 ---
 
