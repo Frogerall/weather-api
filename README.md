@@ -43,6 +43,12 @@ This small web application, developed using HTML, CSS, and JavaScript, leverages
 1. Enter the desired city name in the search bar.
 2. Get immediate access to the current temperature and basic API details for the specified location.
 
+To run the project locally, follow these steps:
+
+1. Clone the repository: git clone https://github.com/frogerall/weather-api.git
+
+2. Open the `index.html` file in your preferred web browser.
+
 ---
 
 ### Technologies Used
@@ -51,18 +57,6 @@ This small web application, developed using HTML, CSS, and JavaScript, leverages
 - CSS
 - JavaScript
 - [OpenWeather API](https://openweathermap.org/)
-
-## How to Run
-
-To run the project locally, follow these steps:
-
-1. Clone the repository: git clone https://github.com/frogerall/weather-api.git
-
-2. Open the `index.html` file in your preferred web browser.
-
-## Help
-
-If you encounter common problems or issues while using this kindly contact me on my email
 
 ## Future Plans
 
@@ -151,7 +145,12 @@ Contributions to the project are highly appreciated. If you'd like to contribute
   - Explore the live demo of the Weather API App: [Live Demo](https://frogerall.github.io/weather-api/)
 
 - **Article on API Key Security:**
+
   - For securing API keys, refer to this valuable article: [API Key Security](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25)
+
+  ## Help
+
+If you encounter common problems or issues while using this kindly contact me on my email
 
 ## Authors
 
