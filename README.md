@@ -72,7 +72,7 @@ To run the project locally, follow these steps:
 
 - Show temperature trends, such as highs and lows, over a specified period.
 
-#### Hourly Forecast
+#### Hourly Forecas
 
 - Include an hourly breakdown of weather conditions to help users plan their day more effectively.
 
@@ -83,42 +83,6 @@ To run the project locally, follow these steps:
 #### User Location Detection
 
 - Implement a feature to automatically detect the user's location and display the local weather without manual input.
-
-#### Customizable Units
-
-- Allow users to choose between Celsius and Fahrenheit for temperature, and metric or imperial units for other weather metrics.
-
-#### Severe Weather Alerts
-
-- Provide alerts for severe weather conditions like storms, hurricanes, or extreme temperatures.
-
-##### Historical Weather Data
-
-- Include historical weather data for the city, allowing users to explore past weather patterns.
-
-#### User Preferences
-
-- Enable users to set preferences for their default city, preferred units, and notification settings.
-
-#### Interactive UI
-
-- Create an interactive and visually appealing user interface with intuitive controls for a seamless user experience.
-
-#### Social Media Integration
-
-- Allow users to share current weather conditions or forecasts on social media platforms.
-
-#### Educational Content
-
-- Provide educational content about weather phenomena, climate patterns, or tips on understanding weather forecasts.
-
-#### Localized Content
-
-- Include information about local events, festivals, or activities related to weather conditions.
-
-#### Integration with Other Apps
-
-- Explore integration with other apps or services, such as calendar apps, to provide weather-related insights for upcoming events.
 
 #### Feedback Mechanism
 
